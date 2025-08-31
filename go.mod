@@ -1,3 +1,3 @@
-module goobie-gma
+module gma-lite-go
 
 go 1.25
